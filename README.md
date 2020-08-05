@@ -1,4 +1,4 @@
-<p align="center"> <img src="images/header.png" width="1000"> </p>
+<p aling="center"> <img src="./src/images/header.png" width="1000" > </p>
 
 
 # LEAGUE OF LEGENDS
