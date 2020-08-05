@@ -18,7 +18,6 @@ if (rol === 'Tank'){
 }
   return datafiltrada;
 }
-//DEJAR EN MAIN.JS
 //Filtrado por Asesinos
 const isAssassin = (asesinos)=>{
   return asesinos.tags.includes('Assassin');

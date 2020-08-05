@@ -155,7 +155,6 @@ background:black;
     height: 100%;
     border-radius:10px;
     border:2px solid #a37b16; 
- 
 }  
 .championsName{
      font-family: 'Spectral SC', serif;
@@ -164,6 +163,7 @@ background:black;
      display: flex;   
     flex-direction: column-reverse;   
     align-items: center;
+    
  }
 .modalBg{
     position: fixed;
@@ -336,12 +336,12 @@ background:black;
     margin-top:350px;
     margin-right:190px;
     position: absolute;
-  cursor: pointer;
-  animation-name:play;
-  animation-duration: 20s;
-  animation-iteration-count: infinite;
-  animation-play-state: running;
-  animation-timing-function:linear;
+    cursor: pointer;
+    animation-name:play;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+    animation-timing-function:linear;
 }
 
   @-webkit-keyframes slidein {
